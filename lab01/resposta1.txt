@@ -1,2 +1,4 @@
 Resposta 1:
 
+O HTML permitiu a constução de sites estáticos, como por exemplo a criação de blogs, bibliotecas e wikipédias estáticas. Isso permitiu o início da disseminação do conhecimento via World wide web
+exclusivamente focado em páginas estáticas e pouco semânticas na época.

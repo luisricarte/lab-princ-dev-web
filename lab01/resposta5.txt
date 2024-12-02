@@ -1,0 +1,7 @@
+Resposta 5:
+
+Primeiramente seria criado o repositório no github, em seguida seria definida a stack dependendo do objetivo por trás do projeto. Caso seja apenas demonstrar habilidades, as tecnologias seriam focadas
+no conhecimento prévio de cada um dos integrantes. Por exemplo, considerando o backend poderíamos escolher baseado no que é escolhido na faculdade ou em experiências compartilhadas pela dupla em projetos. 
+Para organizar as tarefas é possível utilizar o Notion como forma de adicionar deadlines, issues disponíveis, componentes e mais informações sobre documentações do projeto. Por fim, para implementar boas práticas
+de versionamento de código é possível que as responsabilidades sejam divididas por meio das issues publicas, onde seria criado uma branch específica para a solução daquele problema específico e após a abertura do MR e code review
+as evoluções da branch seriam adicionadas à main.

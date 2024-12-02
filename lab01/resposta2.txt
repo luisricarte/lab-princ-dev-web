@@ -1,0 +1,8 @@
+Resposta 2:
+
+HTML, CSS, Javascript. As três ferramentas funcionam como a base de toda página web no início
+O Html é responsável pela marcação das páginas, inicialmente existiam poucas tags, contudo com a evolução da
+tecnologia e da marcação de páginas foi desenvolvido o que se chama de HTML Semântico, onde é facilitado a legibilidade
+da página web a partir das variações de tags e propriedades das mesmas. Além disso, temos o CSS que é a base para estilização 
+de uma página web, responsável por trazer estilos e modelagem para as páginas estáticas. Por fim, temos o javascript que é responsável
+pela execução de scripts em páginas estáticas, permitindo controle sobre os elementos das páginas a partir a estutura básica criada pelo HTML.

@@ -1,0 +1,6 @@
+Resposta 3:
+
+Versionamento de código é quando temos um código compartilhado em um repositório remoto que consiste em manter o código mais atualizado de forma remota.
+Dentro do versionamento de código podemos citar o uso de branches, utilizadas como o nome sugere como maneira de criar um ramo a partir de um ponto do ramo principal 
+permitindo que o usuário tenha um código a partir de um ponto específico do ramo principal. O versionamento de código permite que diversos desenvolvedores participem de um
+único projeto evitando problemas de códigos desatualizados em máquinas específicas e a possibilidade de que todos possam realizar adições no código fonte.

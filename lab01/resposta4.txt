@@ -1,0 +1,5 @@
+Resposta 4:
+
+O Javascript possui funções que permitem que sejam selecionados as tags html permitindo além de tudo a manipulação dos elementos, diferente do que ocorre com a página estática proporcionada pelo html. 
+Além disso, o Javascript possui uma comunidade gigante que constrói bibliotecas marcantes para a evolução das páginas web, como é o caso da biblioteca do facebook React, onde temos a adição de hooks, componentes e muito mais.
+O Javascript é a base da web, permitindo adição de 'scripts' na página web.
